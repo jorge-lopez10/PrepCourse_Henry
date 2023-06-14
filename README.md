@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Repositorio de prueba del PrepCourse de Henry
+Prouyecto de prube de como clonar un repositorio
